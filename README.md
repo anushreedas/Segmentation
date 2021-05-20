@@ -1,5 +1,5 @@
 # Segmentation
-Symbol Segmentation (via Clustering)
+Symbol Segmentation (via Clustering) on CROHME dataset
 
 S-oracle: every stroke is represented as a separate symbol, using the classification from the symbol that the stroke belongs to in ground truth.
 
